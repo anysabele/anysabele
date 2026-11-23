@@ -7,7 +7,6 @@ Também tenho experiência em suporte e infraestrutura de redes, o que me dá um
 ## 🔭 No que estou trabalhando agora
 
 - **Iniciação científica (PIBIC):** agente conversacional baseado em LLM para coleta longitudinal de dados clínicos, com arquitetura *local-first*, RAG, e atenção a privacidade, ética e proteção de dados em saúde.
-- STI/UFPE: suporte técnico, configuração de equipamentos de rede e documentação de topologias.
 
 
 ## 💻 Algumas tecnologias & ferramentas que utilizo
