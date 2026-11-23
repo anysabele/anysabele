@@ -2,7 +2,6 @@
 
 Estudante de **Bacharelado em Inteligência Artificial no CIn/UFPE**.
 Trabalho com **machine learning, LLMs e agentes conversacionais**, com foco em **IA aplicada à saúde**.
-Também tenho experiência em suporte e infraestrutura de redes, o que me dá uma visão prática de como as soluções funcionam no mundo real.
 
 ## 🔭 No que estou trabalhando agora
 
