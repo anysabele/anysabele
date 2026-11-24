@@ -1,4 +1,4 @@
-# Oi, eu sou a Anysabele.
+# Oi, eu sou a Anysabele. 🪷
 
 Estudante de **Bacharelado em Inteligência Artificial no CIn/UFPE**.
 Trabalho com **machine learning, LLMs e agentes conversacionais**, com foco em **IA aplicada à saúde**.
